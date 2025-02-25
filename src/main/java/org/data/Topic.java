@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Objects;
 
 
-public class Topic {
+public class Topic {//Создал, а в итоге его использование оказалось не очень эффективным
     public final String name;
     public ArrayList<Vote> voteList;
 
